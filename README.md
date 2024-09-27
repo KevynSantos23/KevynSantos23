@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+VILTON+EDSON+FIGUEIRÔA;I+from+Brazil,+PE;I'm+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kevyn+Santos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Viltonedson">
+  <a href="https://github.com/KevynSantos23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viltonedson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viltonedson&layout=compact&langs_count=7&theme=dark"/>
 </div>
