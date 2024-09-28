@@ -1,23 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kevyn+Santos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kevyn+Santos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/KevynSantos23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viltonedson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viltonedson&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevynSantos23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSantos23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Viltonedson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-### Hi there 👋, I am [Sérgio Henrique](https://www.linkedin.com/in/sergio-de-lima-jr/)!
+</br>
+</br>
 
 I am a Softwre Developer.
 
 - 📫 How to reach me: sergio.tjf1@gmail.com
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-santos-b4545b206/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](instagram.com/kevyn.sys/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-santos-b4545b206/) 
+
 
 **Languages and Tools:** 
 
