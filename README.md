@@ -22,7 +22,7 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas pela Faculdad
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kevynsant) 
 
 
-**Linguagens e ferramentas:** 
+## **Linguagens e ferramentas:** 
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
@@ -32,17 +32,14 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas pela Faculdad
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+
+📚 Estudando : 
+   - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+      ![Flask](https://img.shields.io/badge/-Flask-black=false?logo=flask&style=social)&nbsp;&nbsp;
+      ![Django](https://img.shields.io/badge/-Django-black=false?logo=django&style=social)&nbsp;&nbsp;
+
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KevynSantos23.KevynSantos23)
-
-📚 studying : 
-   - ![Go](https://img.shields.io/badge/-Go-black=false?logo=go&style=social)&nbsp;&nbsp;
-      ![Redis](https://img.shields.io/badge/-Redis-black=false?logo=redis&style=social)&nbsp;&nbsp;
-      ![Docker](https://img.shields.io/badge/-Docker-black=false?logo=docker&style=social)&nbsp;&nbsp;
-    
-**Github Stats**
-
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sergiohdljr&theme=graywhite&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohdljr&layout=compact&langs_count=16&theme=graywhite&count_private=true&hide_border=true)</a>
 
 
 
