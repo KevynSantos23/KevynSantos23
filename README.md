@@ -11,15 +11,15 @@
 </br>
 </br>
 
-I am a Softwre Developer.
+Sou profissional formado em Análise e Desenvolvimento de Sistemas pela Faculdade Senac PE, com grande entusiasmo pelas áreas de dados e desenvolvimento web. Sempre busco aprender e me aprimorar em tecnologias emergentes, com o objetivo de desenvolver soluções inovadoras e eficazes.
 
-- 📫 How to reach me: sergio.tjf1@gmail.com
+- 📫 Como me contatar: kevynsant.ss@gmail.com
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-santos-b4545b206/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](instagram.com/kevyn.sys/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-santos-b4545b206/) 
+[![LinkedIn](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kevyn.sys/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.kaggle.com/kevynsant) 
 
 
 **Languages and Tools:** 
