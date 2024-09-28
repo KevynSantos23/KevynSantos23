@@ -22,27 +22,17 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas pela Faculdad
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kevynsant) 
 
 
-**Languages and Tools:** 
+**Linguagens e ferramentas:** 
 
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=social)&nbsp;&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-black=false?logo=react&style=social)&nbsp;&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-black?logo=vue.js&style=social)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node.js&style=social)&nbsp;&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-black?logo=nestjs&style=social)&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/-Express-black?logo=express&style=social)&nbsp;&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-black?logo=prisma&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiohdljr.sergiohdljr)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KevynSantos23.KevynSantos23)
 
 📚 studying : 
    - ![Go](https://img.shields.io/badge/-Go-black=false?logo=go&style=social)&nbsp;&nbsp;
