@@ -18,8 +18,8 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas pela Faculdad
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-santos-b4545b206/) 
-[![LinkedIn](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kevyn.sys/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.kaggle.com/kevynsant) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kevyn.sys/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kevynsant) 
 
 
 **Languages and Tools:** 
@@ -53,3 +53,7 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas pela Faculdad
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sergiohdljr&theme=graywhite&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohdljr&layout=compact&langs_count=16&theme=graywhite&count_private=true&hide_border=true)</a>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
